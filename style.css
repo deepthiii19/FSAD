@@ -7,20 +7,20 @@
 }
 
 .box1 {
-    background-color: rgb(187, 103, 103);
+    background-color: rgb(186, 97, 97);
 }
 
 .box2 {
-    background-color: rgb(97, 165, 97);
+    background-color: rgb(72, 188, 180);
 }
 
 .box3 {
-    background-color: rgb(163, 163, 238);
+    background-color: rgb(81, 81, 151);
 }
 
 @media only screen and (max-width: 700px) {
     .box1 {
-        background-color: aliceblue;
+        background-color: rgb(60, 122, 177);
         font-size: 2rem;
     }
 }
